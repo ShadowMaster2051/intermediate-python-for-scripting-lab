@@ -26,7 +26,7 @@ def days_between(day_1, day_2):
 def calculate_circle_area(radius):
     return math.pi * (radius ** 2)
 
-print(calculate_circle_area(50))
+
 
                       
                       

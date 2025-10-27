@@ -1,0 +1,1 @@
+Create a new text file named sample.txt in the same directory. Add a few words to this file, but don’t worry too much about the content. Consider using an AI assistant to generate some text if you want to add content to it quickly.
