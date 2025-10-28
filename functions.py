@@ -46,7 +46,7 @@ def get_area(shape, *args):
         #then pass radius to calculate circle area 
         #assign a radius variable to the first index of args
         # use index positioning to extract radius
-        radis = args[0]
+        radius = args[0]
         return calculate_circle_area(radius)  
     
 #print(get_area("circle", 50))
